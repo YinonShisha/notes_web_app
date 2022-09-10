@@ -6,3 +6,10 @@
   margin: auto;
 }
 
+.editor {
+  border: 1px black solid;
+  height: 400px;
+  width: 350px;
+  margin: auto;
+  padding: 10px;
+}

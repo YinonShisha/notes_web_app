@@ -17,7 +17,8 @@ export default function Home() {
         </h1>
 
 
-
+        <div contentEditable="true" className={styles.editor}>
+        </div>
       </main>
     </div>
   )
